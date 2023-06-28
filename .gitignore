@@ -1,1 +1,5 @@
 Data
+*.png
+*.svg
+*.pdf
+test.py
